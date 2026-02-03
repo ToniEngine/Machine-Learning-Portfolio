@@ -69,6 +69,8 @@ If you find my work interesting or want to collaborate, feel free to reach out!
 
 GitHub: https://github.com/your-username
 
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anthony-obot-6299241b1/)
+[LinkedIn Profile](https://www.linkedin.com/in/anthony-obot-6299241b1/)
 
-DataCamp Profile: https://www.linkedin.com/in/anthony-obot-6299241b1/
+[Data Camp Profile](https://www.datacamp.com/portfolio/antoineorbot)
+
+
